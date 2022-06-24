@@ -17,7 +17,7 @@ function Homepage() {
             Learning Full Stack Development at <span className="red_color">Lovely Professional University.</span>{" "}
           </p>
           <p className="homepage_left_description">
-            I am a Third Year Undergrad. 
+            I am a Third Year Undergrad..
             {" "}
           </p>
           <div>
